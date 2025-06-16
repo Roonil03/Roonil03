@@ -107,8 +107,8 @@
         <img src="https://komarev.com/ghpvc/?username=Roonil03&color=blueviolet&style=flat-square" alt="Profile Views Counter">
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
-        <strong><div align="center">LeetCode Rank</strong></div><br><br>
-        <img src="https://leetcard.jacoblin.cool/Roonil03?theme=transparent&font=B612&ext=contest" alt="LeetCode Rank Badge">
+        <strong><div align="center">LeetCode Rank</strong></div><br>
+        <img src="https://leetcard.jacoblin.cool/Roonil03?theme=transparent&font=B612&ext=contest" alt="LeetCode Rank Stats" style="width: 300px; height: auto;" />
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
         <strong>Project Euler</strong><br>
@@ -156,5 +156,5 @@
   />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"alt="R3-load Ending"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"alt="Reload Ending"/>
 </h1>
