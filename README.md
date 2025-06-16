@@ -62,7 +62,7 @@
   <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=101665&format=png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40" height="40" style="margin:5px"/></a>
 </div>
-<br><br><br><br>
+<br><br>
 <h1 align="center">
 👀 Statistics 👀
 </h1>
@@ -122,7 +122,7 @@
 </div>
 
   <h1 align="center">
-<br><br><br>
+<br>
 
 🎮 Connect with me! 🎮
 </h1>
@@ -155,7 +155,6 @@
     style="max-width: 100%; height: auto;"
   />
 </div>
-<br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"alt="R3-load Ending"/>
 </h1>
