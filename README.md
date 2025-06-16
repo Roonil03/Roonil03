@@ -111,8 +111,8 @@
         <img src="https://leetcard.jacoblin.cool/Roonil03?theme=transparent&font=B612&ext=contest" alt="LeetCode Rank Stats" style="width: 300px; height: auto;" />
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
-        <strong>Project Euler</strong><br>
-        <a href="https://projecteuler.net/archives"><img src="https://img.shields.io/badge/70%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></a>
+        <strong><div align="center">Project Euler</div></strong><br>
+        <a href="https://projecteuler.net/archives"><div align="center"><img src="https://img.shields.io/badge/70%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></div></a>
       </td>
     </tr>
   </table>
@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=06b6d4" alt="CodeForces">
   </a>
   
-  <a href="https://discord.gg/tfHx3st8" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/rBdUaG35PR" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0891b2" alt="Discord">
   </a>
 </div>
