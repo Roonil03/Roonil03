@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;🐳+I'm+Roonil03+🐳;Bienvenue+sur+mon+profil!;🐳+I'm+ル+ニ+ル+🐳;" />
 </h1><br>
-<div align="center">
-  <div style="font-size: 25px;"><b>👾<i> What am I? </b></i>👾</div>
+<div align="center"><h1>
+  <div style="font-size: 25px;"><b>👾<i> What am I? </b></i>👾</div></h1>
 </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Shocker&size=30&center=true&vCenter=true&width=700&height=70&duration=2000&pause=0.001&color=cade37&lines=Game+Developer;Competitive+Programmer;Backend+Web+Developer;Conteur+Interactif;Algorithm+Enthusiast;Solutionneur+de+Problèmes;Cyber+Security+Newbie;バーチャルアイドルエンジョイナー;" />
@@ -107,7 +107,7 @@
         <img src="https://komarev.com/ghpvc/?username=Roonil03&color=blueviolet&style=flat-square" alt="Profile Views Counter">
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
-        <strong>LeetCode Rank</strong><br><br>
+        <strong><div align="center">LeetCode Rank</strong></div><br><br>
         <img src="https://leetcard.jacoblin.cool/Roonil03?theme=transparent&font=B612&ext=contest" alt="LeetCode Rank Badge">
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
