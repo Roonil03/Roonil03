@@ -156,5 +156,5 @@
   />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"alt="Reload Ending"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ ！;"alt="Reload Ending"/>
 </h1>
