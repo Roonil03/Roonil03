@@ -5,7 +5,7 @@
   <div style="font-size: 25px;"><b>👾<i> What am I? </b></i>👾</div>
 </div>
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Shocker&size=30&center=true&vCenter=true&width=700&height=70&duration=2000&pause=0.001&color=cade37&lines=Game+Developer;Competitive+Programmer;Backend+Web+Developer;Conteur+Interactif;Algorithm+Enthusiast;Solutionneur+de+Problèmes;Cyber+Security+Newbie;バーチャルアイドルエンジョイナー;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Shocker&size=30&center=true&vCenter=true&width=700&height=70&duration=2000&pause=0.001&color=cade37&lines=Game+Developer;Competitive+Programmer;Backend+Web+Developer;Conteur+Interactif;Algorithm+Enthusiast;Solutionneur+de+Problèmes;Cyber+Security+Newbie;バーチャルアイドルエンジョイナー;" />
 </h3>
 <br>
 <div align="center">
@@ -28,11 +28,11 @@
   <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://images.seeklogo.com/logo-png/27/2/markdown-logo-png_seeklogo-273638.png"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://static-00.iconduck.com/assets.00/markdown-icon-2048x2048-2zsi74vy.png"width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
-  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://icon2.cleanpng.com/20180329/bdq/avdwxom0q.webp" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.live2d.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/28519948?v=4" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
@@ -41,7 +41,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/pandas.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBjbXwcjW7lVBJ6AdOSDiXKrc-op8UBAw4A&s" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer"><img src="https://i0.wp.com/funthon.wordpress.com/wp-content/uploads/2017/05/bs.png?fit=1200%2C516&ssl=1" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://secure-contracts.com/program-analysis/echidna/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/crytic/echidna/master/echidna.png" width="40" height="40" style="margin:5px"/></a>
@@ -52,7 +52,7 @@
 <br><br>
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://denchisoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://denchisoft.com/wp-content/uploads/2021/02/vts_logo_transparent.png" width="40" height="40" style="margin:5px"/></a>
 </div>
@@ -107,12 +107,12 @@
         <img src="https://komarev.com/ghpvc/?username=Roonil03&color=blueviolet&style=flat-square" alt="Profile Views Counter">
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
-        <strong>LeetCode Rank</strong><br>
+        <strong>LeetCode Rank</strong><br><br>
         <img src="https://leetcard.jacoblin.cool/Roonil03?theme=transparent&font=B612&ext=contest" alt="LeetCode Rank Badge">
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
         <strong>Project Euler</strong><br>
-        <a href="https://projecteuler.net/archives"><img src="https://img.shields.io/badge/60%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></a>
+        <a href="https://projecteuler.net/archives"><img src="https://img.shields.io/badge/70%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></a>
       </td>
     </tr>
   </table>
