@@ -103,8 +103,8 @@
   <table style="width:100%; max-width:800px; table-layout:fixed; border-collapse:collapse;">
     <tr>
       <td style="width:33%; text-align:center; padding:5px;">
-        <strong>Profile Views</strong><br>
-        <img src="https://komarev.com/ghpvc/?username=Roonil03&color=blueviolet&style=flat-square" alt="Profile Views Counter">
+        <strong><div align = "center">Profile Views</div></strong><br>
+        <div align="center"><img src="https://komarev.com/ghpvc/?username=Roonil03&color=blueviolet&style=flat-square" alt="Profile Views Counter"></div>
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
         <strong><div align="center">LeetCode Rank</strong></div><br>
