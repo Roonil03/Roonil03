@@ -28,7 +28,11 @@
   <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkey.com/png/full/786-7861727_scratch-desktop-4-scratch-desktop-logo.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://static-00.iconduck.com/assets.00/markdown-icon-2048x2048-2zsi74vy.png"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/markdown-4.png"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://brainfuck.org/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/cagatayc/image/upload/c_scale,w_500/v1493914344/bf.png"width="40" height="40" style="margin:5px"/></a>
+  <a href="http://erights.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.crockford.com/ec/midi_e.gif"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://mint-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/36440196?s=200&v=4"width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
@@ -48,12 +52,14 @@
   <a href="https://www.pygame.org/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://gin-gonic.com/"target="_blank" rel="noopener noreferrer"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40" style="margin:5px"/></a>
   <a href="https://gofr.dev/" target="_blank" rel="noopener noreferrer"><img src="https://gofr.dev/_next/static/media/complete-gorg-logo.bc9195c4.svg" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://samirgeorgy.wordpress.com/wp-content/uploads/2020/01/itchio-textless-icon.png?w=640" width="40" height="40" style="margin:5px"/></a>
   <a href="https://denchisoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://denchisoft.com/wp-content/uploads/2021/02/vts_logo_transparent.png" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
@@ -112,7 +118,7 @@
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
         <strong><div align="center">Project Euler</div></strong><br>
-        <a href="https://projecteuler.net/archives"><div align="center"><img src="https://img.shields.io/badge/70%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></div></a>
+        <a href="https://projecteuler.net/archives"><div align="center"><img src="https://img.shields.io/badge/100%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></div></a>
       </td>
     </tr>
   </table>
@@ -156,5 +162,5 @@
   />
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;見てにゃ+！;" alt="Reload Ending"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=14d8ff&lines=Ciao+!;Au+revoir+!;またにゃ+！;" alt="Reload Ending"/>
 </h1>
