@@ -118,7 +118,7 @@
       </td>
       <td style="width:33%; text-align:center; padding:5px;">
         <strong><div align="center">Project Euler</div></strong><br>
-        <a href="https://projecteuler.net/archives"><div align="center"><img src="https://img.shields.io/badge/100%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></div></a>
+        <a href="https://projecteuler.net/archives"><div align="center"><img src="https://img.shields.io/badge/150%2B%20Solved-06b6d4?logo=euler&logoColor=white&style=flat-square" alt="Project Euler Badge"></div></a>
       </td>
     </tr>
   </table>
