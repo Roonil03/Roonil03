@@ -38,6 +38,7 @@
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://icon2.cleanpng.com/20180329/bdq/avdwxom0q.webp" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.live2d.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/28519948?v=4" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
@@ -53,10 +54,7 @@
   <a href="https://gin-gonic.com/"target="_blank" rel="noopener noreferrer"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40" style="margin:5px"/></a>
   <a href="https://gofr.dev/" target="_blank" rel="noopener noreferrer"><img src="https://gofr.dev/_next/static/media/complete-gorg-logo.bc9195c4.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fvertical-logo-monochromatic.png&f=1&nofb=1&ipt=5183ad4b68551196f2d33adfb849ebf3fa857f25702bc94c8d79996140b34c9e" width="40" height="40" style="margin:5px"/></a>
-  
+  <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>  
 </div>
 <br><br>
 <div align="center">
