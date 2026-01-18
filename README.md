@@ -89,7 +89,7 @@
       <!-- Top Languages Card -->
       <td style="width:50%; text-align:center; padding:5px;">
         <img
-          src="https://gh-stats.deoxy.dev/api/top-langs?username=Roonil03&layout=donut&theme=transparent&title_color=0891b2&text_color=0891b2&hide=jupyter%20notebook,scss,html,css,javascript"
+          src="https://gh-stats.deoxy.dev/api/top-langs?username=Roonil03&layout=donut&theme=transparent&title_color=0891b2&text_color=0891b2&hide=jupyter%20notebook,scss,html,css,javascript&exclude_repo=SecondYearCodes,ThirdYearCodes"
           alt="Top Languages"
           style="max-height:180px; width:auto; max-width:100%;"
         />
@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Roonil03&theme=transparent&ring=0891b2&fire=06b6d4&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Roonil03&theme=transparent&ring=0891b2&fire=06b6d4&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak">
 </div>
 <!-- 
 <div align="center">
