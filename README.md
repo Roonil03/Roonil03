@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roonil03&theme=transparent&ring=0891b2&fire=06b6d4&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Roonil03&theme=transparent&ring=0891b2&fire=06b6d4&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak">
 </div>
 <!-- 
 <div align="center">
