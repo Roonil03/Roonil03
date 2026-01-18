@@ -81,7 +81,7 @@
       <!-- GitHub Stats Card -->
       <td style="width:50%; text-align:center; padding:5px;">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=Roonil03&show_icons=true&theme=transparent&title_color=0891b2&text_color=0891b2&icon_color=06b6d4&border_color=0891b2&hide_rank=true"
+          src="https://gh-stats.deoxy.dev/api?username=Roonil03&show_icons=true&theme=transparent&title_color=0891b2&text_color=0891b2&icon_color=06b6d4&border_color=0891b2&hide_rank=true"
           alt="GitHub Stats"
           style="max-height:180px; width:auto; max-width:100%;"
         />
@@ -89,7 +89,7 @@
       <!-- Top Languages Card -->
       <td style="width:50%; text-align:center; padding:5px;">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roonil03&layout=donut&theme=transparent&title_color=0891b2&text_color=0891b2&hide=jupyter%20notebook,scss,html,css,javascript"
+          src="https://gh-stats.deoxy.dev/api/top-langs?username=Roonil03&layout=donut&theme=transparent&title_color=0891b2&text_color=0891b2&hide=jupyter%20notebook,scss,html,css,javascript"
           alt="Top Languages"
           style="max-height:180px; width:auto; max-width:100%;"
         />
