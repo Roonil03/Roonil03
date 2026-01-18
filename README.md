@@ -30,8 +30,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/markdown-4.png"width="40" height="40" style="margin:5px"/></a>
   <a href="https://brainfuck.org/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/cagatayc/image/upload/c_scale,w_500/v1493914344/bf.png"width="40" height="40" style="margin:5px"/></a>
-  <a href="http://erights.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.crockford.com/ec/midi_e.gif"width="40" height="40" style="margin:5px"/></a>
-  <a href="https://mint-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/36440196?s=200&v=4"width="40" height="40" style="margin:5px"/></a>
+  <!-- <a href="http://erights.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.crockford.com/ec/midi_e.gif"width="40" height="40" style="margin:5px"/></a>
+  <a href="https://mint-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/36440196?s=200&v=4"width="40" height="40" style="margin:5px"/></a> -->
 </div>
 <br><br>
 <div align="center">
