@@ -125,7 +125,7 @@
     </tr>
   </table>
   <div style="margin-top:20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Roonil03&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy-mirror.vercel.app/?username=Roonil03&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
   </div>
 </div>
 
