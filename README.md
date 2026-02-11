@@ -57,7 +57,8 @@
   <a href="https://gofr.dev/" target="_blank" rel="noopener noreferrer"><img src="https://gofr.dev/_next/static/media/complete-gorg-logo.bc9195c4.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>  
+  <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F39%2F2%2Ftensorflow-logo-png_seeklogo-394548.png&f=1&nofb=1&ipt=ce6584292aa01ac78292921f07d0a0f34c08e0380dd2839b93be99ec3c0c8434" width ="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
