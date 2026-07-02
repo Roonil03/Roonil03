@@ -45,6 +45,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://lisp-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://lisp-lang.org/assets/img/logo/transparent.png" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
@@ -89,9 +90,18 @@
 <div align="center">
 <!-- Site Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://samirgeorgy.wordpress.com/wp-content/uploads/2020/01/itchio-textless-icon.png?w=640" width="40" height="40" style="margin:5px"/></a>
   <a href="https://denchisoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://denchisoft.com/wp-content/uploads/2021/02/vts_logo_transparent.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://neon.com/" target="_blank" rel="noopener noreferrer"><img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=3" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://render.com/"><img src="https://render.com/images/render-logo-white.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://storm.apache.org/"><img src="https://images.icon-icons.com/2699/PNG/512/apache_storm_logo_icon_168601.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://spark.apache.org/"><img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://redis.io/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redis-icon.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://aerospike.com/"><img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1732%2Febe8eeb0-6228-4dd2-8423-c119ac0cade6.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://asterixdb.apache.org/"><img src="https://asterixdb.apache.org/img/asterixdb_tm.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://solr.apache.org/"><img src="https://solr.apache.org/theme/images/identity/Solr_Logo_on_black.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.vertica.com/documentation/vertica/all/"><img src="https://us.v-cdn.net/6029397/uploads/SHHOS0HXB8UC/vertica-ot-white.png" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
