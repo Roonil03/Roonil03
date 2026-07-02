@@ -78,12 +78,12 @@
   <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F39%2F2%2Ftensorflow-logo-png_seeklogo-394548.png&f=1&nofb=1&ipt=ce6584292aa01ac78292921f07d0a0f34c08e0380dd2839b93be99ec3c0c8434" width ="40" height="40" style="margin:5px"/></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-oZ1axE5Huu3xtV2K5Y7n3EFKrQnhb7lakfEmqTdqXjrk_rXlYnT8dU&s=10" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer"><img src="https://assets.zenml.io/webflow/64a817a2e7e2208272d1ce30/1d35570b/66d86935aaeb8c0b9fa1bde7_scikit-learn.png" width ="40" height="40" style="margin:5px"/></a>
   <a href="https://keras.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/960px-Keras_logo.svg.png?_=20200317115153" width ="40" height="40" style="margin:5px"/></a>
   <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.pikbest.com/origin/10/41/85/35HpIkbEsTU62.png!sw800" width ="40" height="40" style="margin:5px"/></a>
   <a href="https://riverpod.dev/" target="_blank" rel="noopener noreferrer"><img src="https://riverpod.dev/img/logo.png" width ="40" height="40" style="margin:5px"/></a>
-  <a href="https://drift.simonbinder.eu/" target="_blank" rel="noopener noreferrer"><img src="https://curlycoding.github.io/de/img/flutter-drift.png" width ="40" height="40" style="margin:5px"/></a>
-  <a href="https://reactnative.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwSckvoN6R4r8pSclPgctYTG7sIQILpF35la6x4eYTOihJ45twaqHGR0b&s=10" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://drift.simonbinder.eu/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/mFgkn67S/image-2026-07-02-190514434-removebg-preview.png" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://reactnative.dev/"><img src="https://static.cdnlogo.com/logos/r/39/react-native_thumb.png" width ="40" height="40" style="margin:5px"/></a>
   <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" width ="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
@@ -106,7 +106,10 @@
 <br><br>
 <div align="center">
 <!-- Operating Systems -->
-  <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/3840px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://garudalinux.org/" target="_blank" rel="noopener noreferrer"><img src="https://garudalinux.org/assets/garuda-purple.svg" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/3840px-Fedora_logo.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.ventoy.net/en/index.html" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Ventoy_Logo.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=101665&format=png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40" height="40" style="margin:5px"/></a>
 </div>
