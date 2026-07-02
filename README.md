@@ -113,6 +113,10 @@
 <br><br>
 <div align="center">
 <!-- Artist Tools -->
+  <a href="https://krita.org/en/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/3840px-Calligrakrita-base.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.openshot.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/OpenShot_logo_%282016%29.svg/330px-OpenShot_logo_%282016%29.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1280px-The_GIMP_icon_-_gnome.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <h1 align="center">
