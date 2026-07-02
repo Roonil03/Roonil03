@@ -53,6 +53,11 @@
   <a href="https://www.live2d.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/28519948?v=4" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fvertical-logo-monochromatic.png&f=1&nofb=1&ipt=5183ad4b68551196f2d33adfb849ebf3fa857f25702bc94c8d79996140b34c9e" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.nicepng.com/png/full/343-3436652_ue-logo-unreal-engine-icon.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://godotengine.org/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://gephi.org/"><img src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/423dc5e89584a687aea29df807fb706829b9d7be/public" width="40" height="40" style="margin:5px"/></a>
+  
 </div>
 <br><br>
 <div align="center">
