@@ -66,12 +66,19 @@
   <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://secure-contracts.com/program-analysis/echidna/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/crytic/echidna/master/echidna.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.pygame.org/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" width="40" height="40" style="margin:5px"/></a>
-  <a href="https://gin-gonic.com/"target="_blank" rel="noopener noreferrer"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://gin-gonic.com/"target="_blank" rel="noopener noreferrer"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_hOrNd.webp" width="40" height="40" style="margin:5px"/></a>
   <a href="https://gofr.dev/" target="_blank" rel="noopener noreferrer"><img src="https://gofr.dev/_next/static/media/complete-gorg-logo.bc9195c4.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.adafruit.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/331280/adafruit.svg" width="40" height="40" style="margin:5px"/></a>
   <a href="https://flask.palletsprojects.com/en/stable" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartkey.com%2Fmpngs%2Fm%2F145-1450071_flask-python-logo-transparent.png&f=1&nofb=1&ipt=cb2406d91e4ef551cbbb29289a456ecdf8c971ec2433e3f025084010b49d9c4e" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F39%2F2%2Ftensorflow-logo-png_seeklogo-394548.png&f=1&nofb=1&ipt=ce6584292aa01ac78292921f07d0a0f34c08e0380dd2839b93be99ec3c0c8434" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-oZ1axE5Huu3xtV2K5Y7n3EFKrQnhb7lakfEmqTdqXjrk_rXlYnT8dU&s=10" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://keras.io/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/960px-Keras_logo.svg.png?_=20200317115153" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.pikbest.com/origin/10/41/85/35HpIkbEsTU62.png!sw800" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://riverpod.dev/" target="_blank" rel="noopener noreferrer"><img src="https://riverpod.dev/img/logo.png" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://drift.simonbinder.eu/" target="_blank" rel="noopener noreferrer"><img src="https://curlycoding.github.io/de/img/flutter-drift.png" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://reactnative.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwSckvoN6R4r8pSclPgctYTG7sIQILpF35la6x4eYTOihJ45twaqHGR0b&s=10" width ="40" height="40" style="margin:5px"/></a>
+  <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" width ="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
