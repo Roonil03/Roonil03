@@ -16,6 +16,7 @@
 ⚒️Techstack ⚒️
 </h1>
 <div align="center">
+<!-- Languages -->
   <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40" height="40" style="margin:5px"/></a>
@@ -34,9 +35,20 @@
   <a href="https://brainfuck.org/" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/cagatayc/image/upload/c_scale,w_500/v1493914344/bf.png"width="40" height="40" style="margin:5px"/></a>
   <!-- <a href="http://erights.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.crockford.com/ec/midi_e.gif"width="40" height="40" style="margin:5px"/></a>
   <a href="https://mint-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/36440196?s=200&v=4"width="40" height="40" style="margin:5px"/></a> -->
+  <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.gnu.org/software/make/manual/html_node/Makefile-Contents.html"target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/373819/makefile.svg" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://yaml.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Yaml_logo.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://mermaid.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mermaid_Logo.svg/1280px-Mermaid_Logo.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noopener noreferrer"><img src="https://www.vhv.rs/dpng/d/453-4533338_oracle-logo-for-website-new-oracle-logo-png.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png" width="40" height="40" style="margin:5px"/></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40" height="40" style="margin:5px"/></a>
 </div>
 <br><br>
 <div align="center">
+<!-- Technology Tools and Backend Hosting Tools -->
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.citypng.com%2Fpublic%2Fuploads%2Fpreview%2Funity-round-logo-icon-png-701751694968144ebvvjhn8zq.png&f=1&nofb=1&ipt=f9f8bc8d3c29cfd80b9929a1de500d98b06e17f924e63ba1544b28b4b41a4aa2" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.live2d.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/28519948?v=4" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.arduino.cc/en/software/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"width="40" height="40" style="margin:5px"/></a>
@@ -44,6 +56,7 @@
 </div>
 <br><br>
 <div align="center">
+<!-- Packages -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/512/pandas.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="40" height="40" style="margin:5px"/></a>
@@ -62,6 +75,7 @@
 </div>
 <br><br>
 <div align="center">
+<!-- Site Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://samirgeorgy.wordpress.com/wp-content/uploads/2020/01/itchio-textless-icon.png?w=640" width="40" height="40" style="margin:5px"/></a>
@@ -69,9 +83,14 @@
 </div>
 <br><br>
 <div align="center">
+<!-- Operating Systems -->
   <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=512&id=101665&format=png" width="40" height="40" style="margin:5px"/></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40" height="40" style="margin:5px"/></a>
+</div>
+<br><br>
+<div align="center">
+<!-- Artist Tools -->
 </div>
 <br><br>
 <h1 align="center">
